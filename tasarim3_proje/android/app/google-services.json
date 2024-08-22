@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "910257832932",
+    "project_id": "tasarimproje3-8c1d1",
+    "storage_bucket": "tasarimproje3-8c1d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910257832932:android:88eba7ce8de9ac156c3df1",
+        "android_client_info": {
+          "package_name": "com.example.tasarim3_proje"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6o5KLuYr1ttX8v58pEytq9dOCc0da-SQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
